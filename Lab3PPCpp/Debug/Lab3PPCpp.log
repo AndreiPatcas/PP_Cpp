@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\patcas\source\repos\lab3ppcpp\lab3ppcpp\main.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\patcas\source\repos\lab3ppcpp\lab3ppcpp\main.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\patcas\source\repos\lab3ppcpp\lab3ppcpp\main.cpp(101): warning C4018: '<': signed/unsigned mismatch
+  Lab3PPCpp.vcxproj -> C:\Users\Patcas\source\repos\Lab3PPCpp\Debug\Lab3PPCpp.exe
